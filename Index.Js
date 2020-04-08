@@ -15,3 +15,6 @@ console.log(c.toLowerCase());
 console.log(c.substring(0,3));
 // array split
 console.log(a.split(', '));
+// array varibles that whole value
+var dog = ["Max", "Sam", "Killer"]
+console.log(dog[1]);
