@@ -30,3 +30,14 @@ f: 'Nukes',
 console.log(POWERS.a);
 console.log(POWERS.e);
 console.log(POWERS.f);
+
+//using Json with console.log sending data to a server
+
+var POWERS ={
+    a:'Lazers',
+    b:'Nukes'
+
+    
+}
+var POWERSJSON= JSON.stringify(POWERS);
+console.log(POWERSJSON);
