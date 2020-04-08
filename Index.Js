@@ -1,2 +1,2 @@
-
-console.log(1+1);
+var dog = ["Max","Sam","Killer"]
+console.log(dog);
