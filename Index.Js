@@ -18,3 +18,15 @@ console.log(a.split(', '));
 // array varibles that whole value
 var dog = ["Max", "Sam", "Killer"]
 console.log(dog[1]);
+//objects 
+var POWERS ={
+a: 'Lazers',
+b: 'Bombs',
+c: 'Guns',
+d: 'Acts', 
+e: 'Missles',
+f: 'Nukes',
+}
+console.log(POWERS.a);
+console.log(POWERS.e);
+console.log(POWERS.f);
